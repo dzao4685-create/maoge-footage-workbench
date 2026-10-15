@@ -1,0 +1,1 @@
+window.BASE_INDEX = {"products": [], "recordings": [], "deleted_products": [], "shop_links": [], "stats": {"raw_recordings": 0, "slices": 0, "raw_with_products": 0}, "updated_at": "2026-10-15T00:00:00+08:00", "source_root": "未配置素材目录", "product_merges": []};

@@ -1,0 +1,11 @@
+数据/
+素材/
+product-images/
+*.mp4
+*.mov
+*.mkv
+*.csv
+*.zip
+.env*
+__pycache__/
+.DS_Store
