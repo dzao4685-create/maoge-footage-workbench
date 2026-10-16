@@ -2,7 +2,7 @@
   "date": "2026-10-16",
   "source": "/Users/szx/Movies/gpt/猫哥素材工作台_20261010",
   "file_count": 289,
-  "total_bytes": 13707881,
+  "total_bytes": 13712541,
   "files": [
     {
       "path": "猫哥素材工作台_20261010/使用说明.md",
@@ -211,8 +211,8 @@
     },
     {
       "path": "猫哥素材工作台_20261010/工作台/catalog-data.js",
-      "bytes": 967398,
-      "sha256": "6ec4d35d65be2f721aa3315691a3a0ac580075bb9dfc2c798378dcfa934c7fc8"
+      "bytes": 969278,
+      "sha256": "b5a0497f5a82e4281e9a0fb0f96d5feb0c538d37e5751f4519013c9d5d7e29c6"
     },
     {
       "path": "猫哥素材工作台_20261010/工作台/corner-theme.css",
@@ -1366,13 +1366,13 @@
     },
     {
       "path": "猫哥素材工作台_20261010/数据/产品筛选.json",
-      "bytes": 72234,
-      "sha256": "68a208a1e9ca7996ae201b8033e03f02c98af7d1045c395d9d141305a42fcade"
+      "bytes": 74627,
+      "sha256": "b3ec3a305c1ee8c69066cc8d934a41a42e10b13eeef9e2cdc7f9c9dfb8ccbf8a"
     },
     {
       "path": "猫哥素材工作台_20261010/数据/商品图片链接补充.json",
-      "bytes": 21709,
-      "sha256": "9664fa5c3cb631384a63a6be64a447181f0365b778cbac646cba85601db25d6f"
+      "bytes": 21720,
+      "sha256": "5b5c970ce73a9ec7e95976574aa1c86296dd635159564a5ab4cef15f9ab100f8"
     },
     {
       "path": "猫哥素材工作台_20261010/数据/商品库只读快照.json",
@@ -1381,8 +1381,8 @@
     },
     {
       "path": "猫哥素材工作台_20261010/数据/商品核验.json",
-      "bytes": 175362,
-      "sha256": "f58765710c41e8d5050223091aa3d9930ffd978b2dd1a8ffc310c5e62063b3ee"
+      "bytes": 175738,
+      "sha256": "444ea58d380fad1122ce2400f16b4d7e1429a28004962dc08fcf9ab12236728f"
     },
     {
       "path": "猫哥素材工作台_20261010/数据/手动补充.json",
