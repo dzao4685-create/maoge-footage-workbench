@@ -212,13 +212,13 @@
     },
     {
       "path": "猫哥素材工作台_20261010/工作台/corner-theme.css",
-      "bytes": 7921,
-      "sha256": "03858ee3b9da76b7836bd3d35655948ea1edfb63917965720a5cfae2cf4b1968"
+      "bytes": 8416,
+      "sha256": "b3214cc06c4e57beff870bc8e259ca71c1a94644081b90e6442b0a2341cf66f4"
     },
     {
       "path": "猫哥素材工作台_20261010/工作台/index.html",
-      "bytes": 24742,
-      "sha256": "a0a4bfda9369580eb12b8206898c8b15fa49330e35ace6d1b86d304877652039"
+      "bytes": 24889,
+      "sha256": "599a283082f004b8d9bb5fb53414885e15e495b740d438bb5edda204476ee264"
     },
     {
       "path": "猫哥素材工作台_20261010/工作台/product-delete.js",
@@ -1302,8 +1302,8 @@
     },
     {
       "path": "猫哥素材工作台_20261010/工作台/product-verification.js",
-      "bytes": 1324,
-      "sha256": "7dd2273c8f22e977847a42ae1f9d09ae22a622718dee158933893dbd6524bfe8"
+      "bytes": 1627,
+      "sha256": "d167a3c9050a9419e44acd883cacd49ee02ca3759bfaf481358d1294a74c0fdf"
     },
     {
       "path": "猫哥素材工作台_20261010/工作台/theme-assets/corner-bear.svg",
@@ -1449,6 +1449,16 @@
       "path": "猫哥素材工作台_20261010/重复产品核查_20261010/工作台服务_合并前.py",
       "bytes": 6390,
       "sha256": "c82949149ed4624011da11b3ebd9e33785a74f345834b070f5bffde17bc0ea09"
+    },
+    {
+      "path": "猫哥素材工作台_20261010/工作台/product-copy-link.js",
+      "bytes": 1915,
+      "sha256": "10e182d6522888c0e0cf2d8cb9efc29c2ccae6b0240750a9598934f1562d8f9b"
+    },
+    {
+      "path": "猫哥素材工作台_20261010/工作台/product-publish-copy.js",
+      "bytes": 7920,
+      "sha256": "64064a594c8d028e43c33d81adfdaefe946d30b3ac4ede135a570f2514ccf965"
     }
   ]
 }
