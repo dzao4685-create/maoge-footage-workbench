@@ -19,10 +19,10 @@ for name in ('corner-bear.svg', 'corner-friends.svg'):
 css = public / 'corner-theme.css'
 if css.is_file():
     text = css.read_text()
-    text = re.sub(r"url\(['\"]?(?:theme-assets/)?corner-bear\.svg(?:\?[^'\")]+)?['\"]?\)", "url('theme-assets/corner-bear.svg?v=20261017-larger-buttons')", text)
+    text = re.sub(r"url\(['\"]?(?:theme-assets/)?corner-bear\.svg(?:\?[^'\")]+)?['\"]?\)", "url('theme-assets/corner-bear.svg?v=20261017-card-actions')", text)
     css.write_text(text)
 index = public / 'index.html'
 text = index.read_text()
-text = re.sub(r'corner-theme\.css(?:\?[^"\s>]+)?', 'corner-theme.css?v=20261017-larger-buttons', text)
+text = re.sub(r'corner-theme\.css(?:\?[^"\s>]+)?', 'corner-theme.css?v=20261017-card-actions', text)
 index.write_text(text)
 print('Theme icon paths repaired')
