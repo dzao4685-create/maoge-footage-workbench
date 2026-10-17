@@ -1,5 +1,4 @@
 {
-  "file_count": 289,
   "files": [
     {
       "path": "猫哥素材工作台_20261010/使用说明.md",
@@ -218,8 +217,8 @@
     },
     {
       "path": "猫哥素材工作台_20261010/工作台/index.html",
-      "bytes": 24615,
-      "sha256": "1b9a1c1b55f43e027948b54a458a4e1f0008f3b530f7a49b5d84b89800a0b962"
+      "bytes": 24742,
+      "sha256": "a0a4bfda9369580eb12b8206898c8b15fa49330e35ace6d1b86d304877652039"
     },
     {
       "path": "猫哥素材工作台_20261010/工作台/product-delete.js",
@@ -1295,6 +1294,11 @@
       "path": "猫哥素材工作台_20261010/工作台/product-merge-info.js",
       "bytes": 525,
       "sha256": "78e143b16817ab8fc8bc5cdf69e53526f4a5624992227ec07ca33c96ff54718e"
+    },
+    {
+      "path": "猫哥素材工作台_20261010/工作台/product-organizer.js",
+      "bytes": 7628,
+      "sha256": "55a36727ce7764e11e5a89702be0fb301450d09ec28c621a2551225b140fdb18"
     },
     {
       "path": "猫哥素材工作台_20261010/工作台/product-verification.js",
