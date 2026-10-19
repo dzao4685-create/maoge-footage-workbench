@@ -1,1464 +1,527 @@
 {
   "files": [
-    {
-      "path": "猫哥素材工作台_20261010/使用说明.md",
-      "bytes": 4873,
-      "sha256": "db4ebc98fd1fdecd22bb117f04ec418c4c13a5969cd997ee33f933c613ccb5db"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/启动工作台.command",
-      "bytes": 135,
-      "sha256": "d18fe0b94bbb22594f3162f7492709ad10e9a60b561646c71fb00727843b53a0"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/product-page-checks.json",
-      "bytes": 494572,
-      "sha256": "9a0c3c54592ae1acbff346c91dc31f86b84f8879b4e1b4a2f8de1c61ed5cb4c3"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/verified-product-pictures.json",
-      "bytes": 12574,
-      "sha256": "8a07fda3d262740b89690d4e4c77d01d3bf471f6217fedc777fa2461a9264412"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/修改前备份/index.html",
-      "bytes": 23744,
-      "sha256": "0aecfd51e97bd3101330d46af0d4b90fb98523e6ad49d02ada3a69e673cf7281"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/修改前备份/产品筛选.json",
-      "bytes": 5452,
-      "sha256": "087d897e5b2ad343b1801a7da00683024ceb729c8e4d37dab0d566447059b1d8"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/修改前备份/商品图片链接补充.json",
-      "bytes": 3432,
-      "sha256": "28f64448d84d813324b193428f20e3064c357f88aabedffdcdfaab4b92e2fccd"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/修改前备份/商品库只读快照.json",
-      "bytes": 5146,
-      "sha256": "8bbe6cd1fa31c87afd8fede8eba9be12a0a6101fdede19f9bcd6255ca8276427"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/修改前备份/商品资源.py",
-      "bytes": 4784,
-      "sha256": "ebe0d60e1fca4144e5734c53c1f0ac4e17fade4d72471854ce363eb38ca7faa9"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/修改前备份/工作台服务.py",
-      "bytes": 6428,
-      "sha256": "fc9c13afb30342b6fb6428038571e2c0c0e7194385971f5685f7731133919119"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/商品库只读核对.json",
-      "bytes": 96854,
-      "sha256": "7e53c2889b1df80ec3febef25f2754adb181975119bc520bc3cd179139d85336"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/尚未找到可确认链接的210条记录_待审批.csv",
-      "bytes": 30991,
-      "sha256": "7d5c4f720b1aafba151de36e5ed30da92ce5b4b18f4ac91804aa266d0cb26cd6"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/待核产品序号.json",
-      "bytes": 8445,
-      "sha256": "deeea1a41216a9a6395f4cbb54df8f435c25e8aebf9f24d87550623835c0e81b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/待核实物对照_1.jpg",
-      "bytes": 174841,
-      "sha256": "cdfe25b6a23b134821ed2d53fa83d7c7c5b5563da61d1256cb034ea3ee1e004f"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/待核实物对照_2.jpg",
-      "bytes": 188911,
-      "sha256": "183e1d10ef76011b0a5dd7e5a33313fed317868bce99590ad8a125ceaf60fc82"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/待核实物对照_3.jpg",
-      "bytes": 190512,
-      "sha256": "d54b946810da6cb75989d87be86f63ccee44eb7326c5b30cc0728f42e34998b2"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/待核实物对照_4.jpg",
-      "bytes": 183703,
-      "sha256": "df9774d68428088d7d780427357d627b97aa91a0667f3c4d44d09ddc0d62aeb4"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/待核实物对照_5.jpg",
-      "bytes": 171958,
-      "sha256": "3d036ced0b901ed877eb4e85b3296e1d58d7fd77ee2caf4347d27922940e4656"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-0.png",
-      "bytes": 23691,
-      "sha256": "c454cb04e76b6c0ba4646b41860ffbde20fd8d8bf37550707cd1156a18747f14"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-12.png",
-      "bytes": 49084,
-      "sha256": "f277b73ba51f2815fa9d382ce015d0be0546e8c06a8b71c886ffa8dd4a3d9864"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-149.png",
-      "bytes": 30164,
-      "sha256": "3ab85f07398224ba5ab37d0e5804e5553771d3509bae8689cea2b21db04a5786"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-18.png",
-      "bytes": 72469,
-      "sha256": "9ccb7424d4d1d1f0d2fbd03e220b1c9662112a5ddab9b442d54a9334b5402ae4"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-184.png",
-      "bytes": 55754,
-      "sha256": "ed2ae547141a09dc7100300ffaf29d04ac1454f80a245c429d73161efbc85fc7"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-2.png",
-      "bytes": 45341,
-      "sha256": "8cb8d987dd29db2589139eae2d0a847b3a6d35a087a8a9fc96719f6a415cbefe"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-28.png",
-      "bytes": 81807,
-      "sha256": "bcf07ee427ab1e9dcefbabe51147e9d10c7a5adfde6493c24075a84c5f10c5c4"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-29.png",
-      "bytes": 59038,
-      "sha256": "3fbb99521f0b2dbf8d6a11f2578b5e473e8dacea4824e97d4b9451ccbde7a299"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-4.png",
-      "bytes": 61682,
-      "sha256": "cda115fb9674f07fcb75567db8fe1096420b75576264327edfdfbd64383a274c"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-40.png",
-      "bytes": 47464,
-      "sha256": "14d0105c55c86ca42c331dbce847159c4220ffd5cfc0e62418992335bfc17a64"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-59.png",
-      "bytes": 45341,
-      "sha256": "8cb8d987dd29db2589139eae2d0a847b3a6d35a087a8a9fc96719f6a415cbefe"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-67.png",
-      "bytes": 25862,
-      "sha256": "bb95d54331d31c764facdb20b9680b5d47e7d1cb5dcd7227a1428cce4c00d2cf"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-69.png",
-      "bytes": 45341,
-      "sha256": "8cb8d987dd29db2589139eae2d0a847b3a6d35a087a8a9fc96719f6a415cbefe"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-7.png",
-      "bytes": 23930,
-      "sha256": "cf94b9c1e0278a0134f53c5f6c5f837d1f93a1e795bc2cf680ab5f1bc584de23"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-8.png",
-      "bytes": 23934,
-      "sha256": "23ce77899f3001eb37a8de48d94cf3f2ee8b200f89937a94fe4dc632680fdc5b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-81.png",
-      "bytes": 23532,
-      "sha256": "49ea5a738409ef410d3d666113d8e7fb850e22c3bb5d540485591e49b55f96c6"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-86.png",
-      "bytes": 81844,
-      "sha256": "66ffa1e8b6b11c57b0edf08fc1219da75a6a3da189f481c099672425521242ae"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-9.png",
-      "bytes": 62358,
-      "sha256": "08efe71c563d104467f5bc474c57a107b4fa8444b4b2022d2f3434bca55d89f7"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/商品单链接绑定结果.png",
-      "bytes": 198484,
-      "sha256": "79390009b9b7a5e344845ef6d94c326a14fc491557955d26861a63c881d4d092"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/核验前有效索引.json",
-      "bytes": 775335,
-      "sha256": "f53f3d26a902e334d88cc67d8f2d6381c57f2c1a66db5378498eeebaba1eb278"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/核验结果.json",
-      "bytes": 160803,
-      "sha256": "0d103f1e2df351d448b438f1fbfb622151ee93bfbe735444a5fe08580bbdac1b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/商品名称与链接核验_20261010/核验说明.md",
-      "bytes": 456,
-      "sha256": "3ff9a77990ab689d2eaded63e6615dda7936d2a7075e6b293b1e2ed9acbff436"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/bulk-views.js",
-      "bytes": 8463,
-      "sha256": "8021f193a804d4767e0d5a754bc0af8cd15f7e4504d94d8f59b92426521df543"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/catalog-data.js",
-      "bytes": 107677,
-      "sha256": "4ba1026168f8c4f356e8bf4f551d56f718bfd18986165ed1721b29ba8d59ce34"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/corner-theme.css",
-      "bytes": 10013,
-      "sha256": "79b66a19074491a844baea08e55a3e2e9e8dd14d84098273ef95fa71be19afb0"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/index.html",
-      "bytes": 24889,
-      "sha256": "599a283082f004b8d9bb5fb53414885e15e495b740d438bb5edda204476ee264"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-delete.js",
-      "bytes": 3322,
-      "sha256": "96303ebca55764fa5d454dc89d4cc17c739ee93e10da9d5d9c40abc4503beded"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-006522b5.jpg",
-      "bytes": 31092,
-      "sha256": "291617998fc4666b1d30a6eb0380bfdfd7e9109c66a5f157e35d82e10441c226"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-017ae10c.jpg",
-      "bytes": 6662,
-      "sha256": "341734bd3bb388f8692c0f5d308dff2a3a8be469db78574f3cff7dd1a80d6257"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-01e073bf.jpg",
-      "bytes": 7446,
-      "sha256": "a7fef096a129d43a8a67f5e3f22f8b78c1d4edd18f791949d93fcfc860ade85b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-03d5649d.jpg",
-      "bytes": 34334,
-      "sha256": "3e6a4dec0613578d8c7c57535c7cf8eb158b2ba9689a3dfa043d2707db1fca3a"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-0500d278.jpg",
-      "bytes": 51086,
-      "sha256": "7e7f80fe62b874598ef6dd4efc9df2a80b839e52429d86199c205fd7a702ed6b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-074a7c2c.jpg",
-      "bytes": 33947,
-      "sha256": "0f39128c2a0b2e549a5835611b59a0e55837bf85a7a99dfa3b3c0f3f9ce4449e"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-090a062d.jpg",
-      "bytes": 19898,
-      "sha256": "5ec163f660208558b257a179af713674536ed5746a2969957ede64d5a67cdb96"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-09d1bc1f.jpg",
-      "bytes": 40274,
-      "sha256": "1382b3638419d66f64d5cf1c7ed73e40e764c496d27634a879a867b16417aff1"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-0a1325d3.jpg",
-      "bytes": 30526,
-      "sha256": "8c1ba6b15bcc55ac91a8d319166fe1ab616de08ad1edd5b880d7345d07bb108f"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-0aa21789.jpg",
-      "bytes": 42444,
-      "sha256": "faa107d0364798933d82f18012c3ed7bfd7bc7427e66ac85c61244412e8ec53b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-0b23859b.jpg",
-      "bytes": 40149,
-      "sha256": "a92d4df1d36de06ac73d5327ec73e802f82372cac7e24f4b1832602b2594d0d1"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-0d2f4f08.jpg",
-      "bytes": 38027,
-      "sha256": "8f065e89ab44c5a1e1d82dd511102dd2898f50ee1c33bd8016d36c94835496c5"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-0e5bc589.jpg",
-      "bytes": 23618,
-      "sha256": "857a0c67e01d217f61311ced0f7b70aaa17e619634dc38061d4b467cc438caa6"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-116dbeca.jpg",
-      "bytes": 23358,
-      "sha256": "190bc8af42d729d59edeb0a4d74bd3c3cf7d5f80023ce9114535cd381f1821e1"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-11f58ee1.jpg",
-      "bytes": 30248,
-      "sha256": "83594426a464ded8061527ef12dac3647360c3e3aff46a4d600d75ae8718c672"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-12be1c07.jpg",
-      "bytes": 45540,
-      "sha256": "b32c10f7b1289e64a1bbacd0d1a903cfd2d7a28351a3e6eafccd766d299f05f6"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-13329387.jpg",
-      "bytes": 53450,
-      "sha256": "ecf6bb392d60c75b66c98996d3c5e786b25b2d2e56a53e0881625bf5b0b79925"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-13742fbd.jpg",
-      "bytes": 7950,
-      "sha256": "aa3a9ed7db126baa3d30213080bdc159102b2ed4ed73e2107e5d21d06a4aad88"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-14952c55.jpg",
-      "bytes": 35579,
-      "sha256": "6abcbe5ec8eb2cba2979ded8bc07922c877521db6e7ea826e41a4945a5405983"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-154c3c18.jpg",
-      "bytes": 32213,
-      "sha256": "60b8e61fea78d3ae8eec1458afecdc8fc9d556ff458afa7b7b5ba83a66f8c542"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-1661ec37.jpg",
-      "bytes": 15231,
-      "sha256": "aa4617a27d8ff73042f9b53308613554b0ee452a3ce7941b7b5cb7ac5d2e620b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-16a193d5.jpg",
-      "bytes": 44965,
-      "sha256": "099ea86f9d55ba5eff009c4335cd5a33d676d591444fc2aa028d1098c6c5b29e"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-1c4ecabc.jpg",
-      "bytes": 32902,
-      "sha256": "1947dbbd10bbe1d55a81978ed8cd59648418cbffd998a67043267f7866ef428b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-1c797905.jpg",
-      "bytes": 47172,
-      "sha256": "c922f446c9af2c514bfa6997af1cdf69faabebea7128c4bb573f914a83730312"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-1eabc888.jpg",
-      "bytes": 37050,
-      "sha256": "cd63acc7d16a76aeea3a38b0c5522a2fd1d3c95e6d08c635d43f578574800a18"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-1fbc332c.jpg",
-      "bytes": 28630,
-      "sha256": "3fb39a6e0e0a29f06301a8b17a21c28c3d201ccea75fd72e44398731b8beb7f6"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-20863453.jpg",
-      "bytes": 27176,
-      "sha256": "9504327285f7ae474371bc69fb55bf01a8d0cfd861421ec9299983afbff25f5f"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-20d1193d.jpg",
-      "bytes": 7668,
-      "sha256": "4c9cf37ae211573a8a8933968102462d780d5b81c65c14ca02767c34170c5668"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-211c727e.jpg",
-      "bytes": 29145,
-      "sha256": "5af93cf86b08f7f0652a97e0cbc29591fddd86641effd3ba77cf15733b485e1a"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-2162145b.jpg",
-      "bytes": 21564,
-      "sha256": "c443a2292c7e10b69ab4a786021064fb9f26b08b5d2023eff9c15aba6d594522"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-21f29d62.jpg",
-      "bytes": 56743,
-      "sha256": "240376f8dd7627a83cd7a3fb0c175b96c38ab7e5256310bbf776cecac136e3cc"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-222a3e76.jpg",
-      "bytes": 35242,
-      "sha256": "b2fdb3e21cfa00fd9d99521baf0d5927f20e0f7afdfa45777b355aa1434dba77"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-24538be1.jpg",
-      "bytes": 6998,
-      "sha256": "9ff5ca68966ca2faa7bd5e1f9cf896b3daba7e714e977f353d3df35a1bb90c72"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-2619aa4c.jpg",
-      "bytes": 16104,
-      "sha256": "c03402640b31531e8e5684d9ec375dfc25863613394d8f38ff9f9bec14188361"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-26e39f77.jpg",
-      "bytes": 28727,
-      "sha256": "526c8c851b9d68cc2da3872ff3752f6e5184a887b43221885a173d92cde6b603"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-274fa2c5.jpg",
-      "bytes": 19401,
-      "sha256": "9cf403bba706c51cb169531344b21ea0a81bb7a9928ffbfc097e7ac153f80dae"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-27aa6576.jpg",
-      "bytes": 57264,
-      "sha256": "9e6c6c6d079ab5b3049793ee97355c29588fe102061c01248827e930ae0076d5"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-2a836bf1.jpg",
-      "bytes": 32410,
-      "sha256": "ab699a7989b2a8d343f81c96ed52950ea54d75c6dea4a58aa01aa417325fde7a"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-2df00830.jpg",
-      "bytes": 34232,
-      "sha256": "0e03920021bf62466f387245975fcfe805aa90336e33f7f73cb4978120b71b65"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-2f3861c6.jpg",
-      "bytes": 38306,
-      "sha256": "0cc6832b8928c1eb77f5b8c1bbbe189872aca6051fc114176b1b1fb4cda20d20"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-2f7b5dae.jpg",
-      "bytes": 23298,
-      "sha256": "b501432cfa9453e5f23343ebac1c5166a837386a4915d8c6ccaea4ff431edc01"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-2fd288c2.jpg",
-      "bytes": 8938,
-      "sha256": "a74be9ca1d2247b88c00a0647cc56fcdb56601a38242d271fb81a8f88583f109"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-2ffdee1d.jpg",
-      "bytes": 6436,
-      "sha256": "0d169a158161d39944413b398eea64e17193925ef7827b1552316c5e8af3a226"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-30b8585a.jpg",
-      "bytes": 33548,
-      "sha256": "640f2ea3b2b78249e521e053d316a1e8d1f2faffdde251132c2425588d9034c3"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-323a56d9.jpg",
-      "bytes": 4843,
-      "sha256": "03d8d0af27d24ec5c7af5c944afe73a96c69e80eed6bba431bfa1001e719ca5a"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-33ab2750.jpg",
-      "bytes": 4637,
-      "sha256": "9c4870c1ded38f83ede6e11f8d421e702368e17d69377504d928bd8c7dac86e3"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-35f251bb.jpg",
-      "bytes": 32669,
-      "sha256": "2e99a8288fa3c9a8078ec1acde861c4a707ef34c3a516fd76addc23e90b61612"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-36167938.jpg",
-      "bytes": 33183,
-      "sha256": "e49cacca213999a88b2feb430af858b396ee665d66544465b9b9c88be50fb648"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-371cb30c.jpg",
-      "bytes": 44074,
-      "sha256": "609ee8bf6c1773d35ea72943ec3cefac4305fe811a579736f0c515c5c8ad970c"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-373c1161.jpg",
-      "bytes": 48127,
-      "sha256": "61b6f7eae01207fd01b01a9d96c63595027839d8c5d5ab229a3349b8906527ca"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-39366ae5.jpg",
-      "bytes": 62085,
-      "sha256": "5f6a2b606cd55afa2e69d9e45f36df8adc9dc7170fe75f4f05cbd75663bfd280"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-39cfefe0.jpg",
-      "bytes": 26900,
-      "sha256": "7afb92f5a52050521a7248ebb04152e20129c0ca3ba2e2c0c2a83a759cb97be0"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-3cef9db8.jpg",
-      "bytes": 36124,
-      "sha256": "3e8ff4513166a6fb453343d4e6b3e334a7f7ce61d6e6ba0fb9312b078a4a2246"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-3e5274b2.jpg",
-      "bytes": 41894,
-      "sha256": "372e4476d3d5a8defd752eead566946e22534d82fa70c0426a1a410305266ddc"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-3fe67b8c.jpg",
-      "bytes": 28011,
-      "sha256": "4c2092bef03a966b28d3bfbe87cfd93437d35e8a7918e949ae904debe7879682"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-40a33e59.jpg",
-      "bytes": 27637,
-      "sha256": "2b1e492e60e6ac112d9be9b6a3e18edc93a94a2c081a676f2e2b529ab25259a6"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-40a975d6.jpg",
-      "bytes": 12123,
-      "sha256": "426be67daa7bfef00b35554d770a270344b01df7253f859a03a9f333fd6b48c8"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-40f6e104.jpg",
-      "bytes": 35757,
-      "sha256": "eae6ded139bb36da16ee5fd4389efbe69d4c56691f413317a16e70e80af5aeb3"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-41fc7699.jpg",
-      "bytes": 40172,
-      "sha256": "cd80962c2b428b4e42584b7e9db9cfd75809dfc3133f4681d5290329dc9ac20a"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-428529dd.jpg",
-      "bytes": 35955,
-      "sha256": "ffd20a478720d706dfa1da2a9ecc5a4fb6222d1affdab0054af727f8ae361e61"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-42f1c532.jpg",
-      "bytes": 28185,
-      "sha256": "133bc02a10ac63d981a0915079c7eaa6a2fa156b380f6ddd1e0e0f26ed0d7a95"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-43b05af2.jpg",
-      "bytes": 68730,
-      "sha256": "0901d4b810cebcff96b3ecc9d1b40b16361f5d976432d5e39bb6fca2fd60511b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-463a4844.jpg",
-      "bytes": 14909,
-      "sha256": "2b225e70b238c96f7c09b44ce1cf381c39ead4313d87a6e912893f815c0b23ba"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-4649776d.jpg",
-      "bytes": 26500,
-      "sha256": "be2eb763a510a68eae5655baa180f547af587829c06ce0075506fc6feb115de0"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-487c00b6.jpg",
-      "bytes": 13646,
-      "sha256": "2ad344fb5d9909cf85f9a694a5a18167f4fcad2a349a3b0ff37af9c51dbfaaca"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-48b67227.jpg",
-      "bytes": 11161,
-      "sha256": "4c49b0db41327a3dc21cec9e50ab3d3c3e34fcfe5eb80b0774fccc8aa55adde6"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-4a08c947.jpg",
-      "bytes": 47050,
-      "sha256": "8025da3f7961b6f027132328950c853c04343ef04f3833d5ba55c67687bdb735"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-4a729b14.jpg",
-      "bytes": 36401,
-      "sha256": "c842561d0655c0e44152370efcc33a853568344a16059b0abb1e7ba496fea46d"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-4ac15737.jpg",
-      "bytes": 37210,
-      "sha256": "5c7cdebb29d5b99ccca3207f30a1a29d49396e9f459ccd5c895d3d04a2863718"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-4b223a3a.jpg",
-      "bytes": 30653,
-      "sha256": "06f8f7f19f1450f236573fa3142f9a1601556b402858100403579b06fa447e9e"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-4bdc7db9.jpg",
-      "bytes": 18920,
-      "sha256": "4605885484d81ed34230aa83b938c22d4c5a9bb727ac3f00aba850793eda1f7b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-4bea657d.jpg",
-      "bytes": 50259,
-      "sha256": "9dc14627554001a84ece3e4f4493782a39c48cee963eed8f357c5187a76d24a4"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-4c0c4386.jpg",
-      "bytes": 21515,
-      "sha256": "b2c40e3789006b8c95339030c4bd28d4a091b4e11fb6d26b85c8e32ca6d5fff7"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-4d474005.jpg",
-      "bytes": 13991,
-      "sha256": "c88ca2b39073ab9f090f49bd44cda16cf7809168204784c2eed452c16bb40f2b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-4d608dad.jpg",
-      "bytes": 24388,
-      "sha256": "63412ac66d51b53dfad2bd428aa32540aa3e93d10242317006fbea02a4c7bb75"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-4e323367.jpg",
-      "bytes": 18689,
-      "sha256": "42e8f98ebec075c76e1c4875b3d22ebe9cbccef3e3d92395ad9a28d196145f76"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-4fbff7c1.jpg",
-      "bytes": 42746,
-      "sha256": "44e7a0b880414d1fb84e82d06ebceb51e9a3d3627292f23734243892c20533ed"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-4fdae088.jpg",
-      "bytes": 31468,
-      "sha256": "b38731be74c570e3be1b4c0ff0f606b503a0e738dc46a3387953b0d81ca27d3b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-5064ca7a.jpg",
-      "bytes": 64365,
-      "sha256": "51e066cc6f9dc9c65d238dfb091befadd94faa7a88289f629327db2de4b2629a"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-52b7b651.jpg",
-      "bytes": 41279,
-      "sha256": "1d17350c2bca15a785336c290df1dce3f5e86fe7342050faf87d75357f7ca970"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-53b56a40.jpg",
-      "bytes": 55983,
-      "sha256": "acbdd32d514a6aa62934987c8190330a3253390d32fcca81c1c5016990536b76"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-55365c9a.jpg",
-      "bytes": 23344,
-      "sha256": "c7ee617c8fab97ef7696b5d4b21995d68b22ad67e0b119759bc2b6e6b791ef9a"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-5678b95f.jpg",
-      "bytes": 42723,
-      "sha256": "31315995d8bf4be8bb94f5ba63a1f41a755c9b47d8f9e49d78804da3bc1862e7"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-5687d029.jpg",
-      "bytes": 4730,
-      "sha256": "1f8caa0e9641fc42053c6f30de22f742f7e0fcd356c0c6fc34e59aa835a20c24"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-5a20fb8b.jpg",
-      "bytes": 36271,
-      "sha256": "be095c9e7a71b257b002fbff7095296cb68e83aefe7efe56e297a9bfb4d43b87"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-5ac5fd9a.jpg",
-      "bytes": 19091,
-      "sha256": "a3135f67c1bac38b7cd03ea953938b27cb45762f2a207d29eb0759747ca337d4"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-5af28f8d.jpg",
-      "bytes": 41916,
-      "sha256": "bc5fe9740a7f96f5d7c4d9d75f6b5e375a636b22aee60aae0b2a9cf438d653ad"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-5b28a176.jpg",
-      "bytes": 37942,
-      "sha256": "86c6f9dc650e5c3343bb8df8d65880425f0c04c11bfebb993c5f3dfef9f65a7b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-5b7ab356.jpg",
-      "bytes": 45065,
-      "sha256": "6af062caac8f7abb1aa16b1f64a372b8b4553ec2974fdbae43c01e3fcf73e1ec"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-5b8264a1.jpg",
-      "bytes": 21950,
-      "sha256": "c4e98d20c6dc259201a600e9d4308626f5642afc9408808eb8551d9cecc1bb06"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-5dcf5d1c.jpg",
-      "bytes": 36405,
-      "sha256": "dacf69d1d946fbd3a33c78be10b7952d3a33e7f10829d29fde8b3919a18497df"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-5e2b751f.jpg",
-      "bytes": 39820,
-      "sha256": "df32539984aef0b7e57e36de218dcb98d4bdc086a0b70eb7a6b18190f6fbed0f"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-5e60735e.jpg",
-      "bytes": 48437,
-      "sha256": "f94c1f3d247e34c11bae40efb23cd1c58c32c604166715cd0f176ee6b8a9902e"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-5fc79af6.jpg",
-      "bytes": 5359,
-      "sha256": "f7dc0c6ab32f6236fc0e3c8972b793c1b0908e33243497e98312d53d0cf32eb3"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-60b0c1f6.jpg",
-      "bytes": 19356,
-      "sha256": "d090e377acfbdb1875ebc82e3a66605edd08371dce82acf303df8ac289af4233"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-60ed9db4.jpg",
-      "bytes": 54334,
-      "sha256": "8c9810277f3a0bba76503d7cce8f5397d495e803c9eb12a5ed9ca57b63f626de"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-61b3be72.jpg",
-      "bytes": 24580,
-      "sha256": "8a9111e2b52f4247832d52eeabbb65a0ea004fb031c14cf6574aefe36e8db456"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-61d18e9d.jpg",
-      "bytes": 24654,
-      "sha256": "6dcca4ddf58a4b2878f012c9b3967f8396987b9de49509da85124a0287e22d65"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-61f5fde7.jpg",
-      "bytes": 34910,
-      "sha256": "0fdcd55e209f5f9d0ac9a162049916e6cf85addd13f1707b1753c7dee693ebeb"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-630d3f91.jpg",
-      "bytes": 37757,
-      "sha256": "82f5aeca5aef950be99c7d2bc77e53a8be960010bfa854277c1f3a270f4ddaf8"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-64ae2386.jpg",
-      "bytes": 21099,
-      "sha256": "8f09fa5ad69f7621508ac67558ffe4ac0b06ea0f41e1b8aeac0c658982f225fc"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-67f94b4e.jpg",
-      "bytes": 36836,
-      "sha256": "99ff01f802bcd1e14049e600b99019d601551522e43957f797b90f5081bcf4f0"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-6824ebd4.jpg",
-      "bytes": 52841,
-      "sha256": "c35e8dddf3b7396080c29d63e23deeeb8eb07bd955cb1af8d97b123d75ac757f"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-6830667b.jpg",
-      "bytes": 26886,
-      "sha256": "699c212edc0ea288ec9742290c8d0093fab4a3253f15e83b4f3fbe1d60d641b2"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-68432c98.jpg",
-      "bytes": 13515,
-      "sha256": "fa0a54900fc6c3b1560f456bbe2e67472b4ce20e8085c9a3da52cdc2d2436bc9"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-68fce2aa.jpg",
-      "bytes": 38407,
-      "sha256": "f3937cfa50cb5126fdeb2d68ff22a075d2d5249907a686c00d0f833479e36faa"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-695ad2b7.jpg",
-      "bytes": 44406,
-      "sha256": "71aa3ba67ab7ab1a52140e543f03ac6d19bfdafd373754a0a0c401cf0a2e2d70"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-69e9ad42.jpg",
-      "bytes": 9924,
-      "sha256": "5abd3f6618e38b8441a64597f290fff8b9e8eb5f7dada88f2241b65ea80c8865"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-6a1575af.jpg",
-      "bytes": 33713,
-      "sha256": "aff675de36949bee8235d001d8f6d30cdc537d3a24c991557d5cd1df7357f9d5"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-6a507cca.jpg",
-      "bytes": 39704,
-      "sha256": "4c18c5951f2f8e53807dea96be2b0e494dfbbadd8baf482299e5ede78fdfd980"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-6a975252.jpg",
-      "bytes": 17501,
-      "sha256": "4d43bcdbafeaaec819cf366ed098050cf0aa026f8312d11f01347b71b9313b33"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-6beaf8db.jpg",
-      "bytes": 40397,
-      "sha256": "6fa2a916ffacd0c5a63510666bada7bd76d67a66eb4baeeba4c1baeecba22b3f"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-6fa5be9b.jpg",
-      "bytes": 59338,
-      "sha256": "39e504871d11c263431c8dd29909367d31f5655079d768bb1cb9caf58399c21f"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-70285d6f.jpg",
-      "bytes": 8028,
-      "sha256": "3ff174f40de709337b6350d7aca0b9ef3623616f56d0a06d3426f5f0db685bf2"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-7142cd67.jpg",
-      "bytes": 37797,
-      "sha256": "ec03b42f7cf1767dc3d7f6201a892e0c41e83d3f8b82000660b10a029c8c3880"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-7584460b.jpg",
-      "bytes": 30434,
-      "sha256": "7c913f408243f711bdc22a9913ee77956208976626e083820d5de83e8041ac2c"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-77a0bb8f.jpg",
-      "bytes": 18502,
-      "sha256": "10a6e3abf04d2e0c0e355b471d0770cd0b800e9cd992c9661d6891552a2e3d4d"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-781f70b2.jpg",
-      "bytes": 25368,
-      "sha256": "cda1580609f9532b9aa514f64066cee1b570163e054c67882b320ca99fd69af9"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-79491cd9.jpg",
-      "bytes": 48170,
-      "sha256": "fa4b0feda7f04f58be93e26dd7c481bf320588ce20fc9440005f5d21a5dc9d92"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-7a80ce41.jpg",
-      "bytes": 32523,
-      "sha256": "752227436478bb56d07e1ba1d45a6228ed388b073460f8afc92405cd21dbe3eb"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-7a922105.jpg",
-      "bytes": 15315,
-      "sha256": "c7cdabf473a1a4f575254b6ff2d5aaf75da14de28ac833a5c166a6166bd576c6"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-7b854ed9.jpg",
-      "bytes": 45295,
-      "sha256": "b6e5b5c3d4fa4c42d5d8da1a0ab73a0a4b3cb7e233a9674551e59213e12b92f8"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-7da42cfa.jpg",
-      "bytes": 55947,
-      "sha256": "3cdb4f80ed33e6df7337e04fdd424356f03d0c2276c6b5aa7ec8380ba8b6bf4c"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-7ec21964.jpg",
-      "bytes": 44321,
-      "sha256": "65b7c4ac8eb31039dde4dcdf6fa1621c1be8cbe8da35bf73088f10393c4f0326"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-81586ad1.jpg",
-      "bytes": 55702,
-      "sha256": "58bba229599edfec73384330899eba0eec96e7bc47afe0a3f578f3809747d3a0"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-83139944.jpg",
-      "bytes": 42246,
-      "sha256": "8ef3e72a637a002d9abbc90ca9231c8df9960d82ec18c6c997081667f705febd"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-83157864.jpg",
-      "bytes": 45529,
-      "sha256": "476f0db5cbf78265d7e785c1701f6a66e00684113b4a415fd6b16710bed94ded"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-83207fc0.jpg",
-      "bytes": 12854,
-      "sha256": "c975c6f3c7a76c361e9926ed455664398550f05d6b7a49ed6dfc361ed74348ca"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-83401d15.jpg",
-      "bytes": 24205,
-      "sha256": "496e5b1dd7be51159c86fd4f91d0b7c6206fe7c3d77c50d9620d123312b963ec"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-8638af41.jpg",
-      "bytes": 43074,
-      "sha256": "c47d81a103374f11810b344fe6d13795ce0cc52d92bccf4d387ef1405b7cebf9"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-869b1645.jpg",
-      "bytes": 53363,
-      "sha256": "e6c1c2f5ad3219cb5829c009c2e23790eb4dfdaf3607d76618efac04cabbd79b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-86f3787e.jpg",
-      "bytes": 44380,
-      "sha256": "38bb9a314f897e8023dd8f4a262cb63d054e5c2dac5de2f8d55c777b1986f518"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-88cff445.jpg",
-      "bytes": 29722,
-      "sha256": "4077dcba55e896be22c27ed997faa7e04bef4bbc177caba8e4b9cd9b7ccd7739"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-89eda0cb.jpg",
-      "bytes": 5577,
-      "sha256": "9a503a15803662a67dc45111c28c6fd34f8ad59a5749cd12cfc2faf3618994a0"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-8b64baf7.jpg",
-      "bytes": 38221,
-      "sha256": "8cb87b59d27166725b791b816755003533fcece92c5b7a501490f998841c479a"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-8bf6105a.jpg",
-      "bytes": 10377,
-      "sha256": "76acec07216e245851a7d22e13dcdc89910d0d1c97eee53e033f4a8b94896e1e"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-8ff8b0ab.jpg",
-      "bytes": 85386,
-      "sha256": "aec9e236d4ea0559cd5f456924aa0bf40af4c1b7380b4c5a4763e12b268d3b0f"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-906e42f6.jpg",
-      "bytes": 20734,
-      "sha256": "287725142597f69f51cf15d701f5764649526177e3ea1d8c86a91b813fab4ed9"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-9232fa58.jpg",
-      "bytes": 32836,
-      "sha256": "57e7269476783801f7e5e4286074c5cee69d5600fb11c8e8dc20fc9883866960"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-95c961fb.jpg",
-      "bytes": 11530,
-      "sha256": "71c8450a98df5368a7acb643a8e12fc466558c3b6bf62e3e00ac59c591b5a265"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-96a62173.jpg",
-      "bytes": 47055,
-      "sha256": "8a311d3bed35e1d1a2a0fc83a1347028ab714d76ddb701b29c7f81a403e33ee2"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-973bf62f.jpg",
-      "bytes": 32107,
-      "sha256": "1e372d689d24d867f3af1798f2ad57bac216456897a5f488f41e54c2381a4ac8"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-97e7f189.jpg",
-      "bytes": 40099,
-      "sha256": "c2fc353ea20e2f8a5316e23df5e70cb468acafacf80a6e3709d301feeb3c4728"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-98c55e65.jpg",
-      "bytes": 14526,
-      "sha256": "b66244c8bc6d4bbdc4b216b203c0fb478f1bb3b2e2abf7517b974c0a24fd1502"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-99ab41d0.jpg",
-      "bytes": 23917,
-      "sha256": "21f50b9063f38986d0b33596374aa20323a94e7f33755865b10c849e014a693d"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-9ac2caad.jpg",
-      "bytes": 38893,
-      "sha256": "43600e9afc4ec9e2acca526235098e45d73524e87ef5668cd228263a1d41cd2b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-9cf12694.jpg",
-      "bytes": 17984,
-      "sha256": "4a035be4971621e572242f3fbf962ea0415567dbe8cfadb8adaba6ea859b8d0f"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-9e0f9611.jpg",
-      "bytes": 37175,
-      "sha256": "05486572a625c512c2d741aed33c0aa5ce10ebd59f332a0e2f1b0df912fdae8f"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-9e49f588.jpg",
-      "bytes": 12355,
-      "sha256": "dee4e8e8c5a6917f8b1ec78e95d6b9d9f2511dec28a6633e4e78e2373713fdb5"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-9f42ee43.jpg",
-      "bytes": 10469,
-      "sha256": "ff0e171d67a1387e8bb70cf21b198bc2932165f57c7877e1b35e0d8b6efdb168"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-9f750972.jpg",
-      "bytes": 8618,
-      "sha256": "a3ef3bd4854b86a837271f2a6d3bb4b796045fa4b31b246cc3b23af7001bba3b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-9f7f2be0.jpg",
-      "bytes": 35001,
-      "sha256": "620f6ffb55582f9f7ebbf73973ef50db76c15bff75a309ec93e39526ebad9d7d"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-a04d7254.jpg",
-      "bytes": 44232,
-      "sha256": "6eca7438139282bcd0672914528b9a6d9d06b00b8a7cd469887022f1a71d8971"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-a64d08ef.jpg",
-      "bytes": 45502,
-      "sha256": "65e0bb01be5458abb8b30467156908e261f5df84d08b672c6bf4cb036fbb7964"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-a9fe4e79.jpg",
-      "bytes": 45003,
-      "sha256": "4ffb82bf9b86a17cd06ba7af135122c248518b8cd412c30f43d9b087fd94410b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-af4f2e51.jpg",
-      "bytes": 8945,
-      "sha256": "e951026e62bb4a1df8189c924f93d0b8bd58ce3978a129a84a6201d25a761c64"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-b2f623c3.jpg",
-      "bytes": 39115,
-      "sha256": "1d709c2cde434b0cfc37cd7a9e60724b12d1b6d93c79d78f664ea4bad14c4cda"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-b3361341.jpg",
-      "bytes": 6191,
-      "sha256": "330aeabdb034ebba098a05fe00d4c7574a0a32ef26635882a9c48b527bea0716"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-b45eb5c2.jpg",
-      "bytes": 36410,
-      "sha256": "9002943925f1dfc75d542f690444f528d899da39762376b69147197dc0806aff"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-b47c789c.jpg",
-      "bytes": 45341,
-      "sha256": "1dd3f75b145698fb7a711367688d6babf8a436927704aa0da98cdfea321958dc"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-b550c255.jpg",
-      "bytes": 52885,
-      "sha256": "a634e79215e039354bf286718e15ed3e4fd1af97722d826cc305499d80e3f70f"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-b6df501f.jpg",
-      "bytes": 43094,
-      "sha256": "250a552d94f0a11444e700e32117051a379d9d35f3a6209ac5afce5350141017"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-b7033846.jpg",
-      "bytes": 42118,
-      "sha256": "89dc20b78ef14b8a9db0e23c908cf97e3a72a0c53884a75e4d840effd6abfafd"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-b8a16eec.jpg",
-      "bytes": 34750,
-      "sha256": "427f6833d8aeb4ca042447d300150ba060a50468664d591cf20f7d8c35572cc6"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-b974b3c5.jpg",
-      "bytes": 38456,
-      "sha256": "9b52763ab585ea0e5d7f6e673dac2d1b3a6f9a3c5b48c7d90232c39ff2ee1f09"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-bee2abe8.jpg",
-      "bytes": 39535,
-      "sha256": "eeed0bf9a1bdecf934cdebbc0ef78f9ce5922e5c2b8bf7eb6361c9b818d45a19"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-c08f0420.jpg",
-      "bytes": 29582,
-      "sha256": "7190a347de06f012d82bfddd4d2c398067f0c62ae6287f4372547bd826171165"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-c1e3b012.jpg",
-      "bytes": 48134,
-      "sha256": "7aaa82c942de2e6a60ecfce1a9c1880f7b9597c2fa76e5e6de4bca8bf6c7ec32"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-c2d0a030.jpg",
-      "bytes": 44959,
-      "sha256": "da2ad9a884635b637866f44ef671360541dfb61303320c34fc66112dd6c3d235"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-c343d01f.jpg",
-      "bytes": 28682,
-      "sha256": "c022a1c549a5070d65d95b14b9b5d2d2066032211f1aacbd87472deec66cd7b4"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-c669b30e.jpg",
-      "bytes": 41555,
-      "sha256": "34475e6fb799b0727b7ea8310a1dc514ea50469f4ac3816e537e05096a2df628"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-c90e644c.jpg",
-      "bytes": 46155,
-      "sha256": "e9990040849dd10114984049ed2942b52bb219e29753b1f691b0028e776222c0"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-ccc99411.jpg",
-      "bytes": 14164,
-      "sha256": "4ced6052b1ef2dcb87caf51a997d386cdcab5e9b04b2c29671962d4bea0f0d33"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-cdf1af67.jpg",
-      "bytes": 25560,
-      "sha256": "64c447dd2be593387ec268a7177d6859dcc3a20b2c27e1321044423692710ff6"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-ce757d05.jpg",
-      "bytes": 17659,
-      "sha256": "50585fbbc926b777d9c02db6a4208962b47d2497b3dbefbd13f43756dcc037fb"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-d0103a21.jpg",
-      "bytes": 22796,
-      "sha256": "dcd0a8b80b9bc6f66b2aee1ec17f16b1811a63e3f4d2e64d3bfd8d10eca278f0"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-d0213ccc.jpg",
-      "bytes": 43966,
-      "sha256": "6abfb746492649f562b4373bd5d185ce51b56676635a78a59f3900e3ff897647"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-d0db74cd.jpg",
-      "bytes": 7005,
-      "sha256": "57015c29c2afd44558191099a18218a123d41b12e61909d6bbbb9fec9f245971"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-d284b04e.jpg",
-      "bytes": 56196,
-      "sha256": "7906f185499091fc791da3f25c4b503ab334168fbb850ed9a69152ba2088d108"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-d384d12e.jpg",
-      "bytes": 29801,
-      "sha256": "aed0d9d1bccaf0bf491b58ade376f5b35c140e466ca6e996c04c1fbb66ed227f"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-d43b70e1.jpg",
-      "bytes": 63037,
-      "sha256": "caef0e7d8d9da5f157486dabd0b1032a6c674c2dc8b64eab2c664f38236add5d"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-d4d6d99b.jpg",
-      "bytes": 10218,
-      "sha256": "3a4b8c6cbd1eea7082a15e7234a4603927755bedc862f168d961e909991a0662"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-d7b54036.jpg",
-      "bytes": 9215,
-      "sha256": "6e3b3f6fe83590c85eb65604edad15bae6049292666cefe0b0dedb63a0c6b793"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-d9e42496.jpg",
-      "bytes": 51047,
-      "sha256": "14b6659249c97867ec6174964fcc86511d5ae1e12b39b20b3f87ea2f3cd7a3ec"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-da5f6d8d.jpg",
-      "bytes": 40743,
-      "sha256": "c9043ceae4eeedbfdbcb63ac64c41b16d7bd0fb21d445f4f925dcc9993181ea9"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-dbe7356b.jpg",
-      "bytes": 13362,
-      "sha256": "cdc5f6a2a79eb77bdf3726dd625f5138072558fceb0cab29deced6e370c939dc"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-dca730e6.jpg",
-      "bytes": 29118,
-      "sha256": "7c5d75f409250d0c52ccf979107ac2474236bf0767e4877c9948006930a7f78f"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-dd6815af.jpg",
-      "bytes": 48951,
-      "sha256": "cbac8f2ae93b1bd4b76abe843f9113a6f4431f2d6d12edc2d7a7a4c4aca1ad28"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-dd88a115.jpg",
-      "bytes": 43005,
-      "sha256": "fd6ec9383ca356da04d0f50137f5ebc5c73c4ce3d839772c7f74f57566fc44c8"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-de4791ca.jpg",
-      "bytes": 6297,
-      "sha256": "0001aa8507700eb40ad39538bab4ea23a09de05b84b93d679608c06bbf56f52a"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-df4c6916.jpg",
-      "bytes": 45329,
-      "sha256": "0695029b859fba637afa80bdeca975af9395e99ca22995e4993a45d1e2462ac7"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-e36f0ad9.jpg",
-      "bytes": 9668,
-      "sha256": "9d783e62d1662dc4855a2dc893fa9bbda41b50376aa2b95dbe32d1a065fea5f0"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-e38a6cf5.jpg",
-      "bytes": 31508,
-      "sha256": "ca720972f740466e3c246aa7ecc2a81c112a91e1882a85e84f76e9bddd86454d"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-e4257db8.jpg",
-      "bytes": 42886,
-      "sha256": "f89569bbee2c3ab34073fa741ce2337353a67378dade79b6b1cb9b873ae84f3d"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-e4ae2087.jpg",
-      "bytes": 47181,
-      "sha256": "00745b8d243b6feb3147502f3762936383e73bcc45feb26b847c63e81b29d256"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-e5bf766a.jpg",
-      "bytes": 17198,
-      "sha256": "86f0b3152df8fd78ddc5676bb0551b2f6eefcef15ddbb9ca007cede5dad0ab7c"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-e76ff06e.jpg",
-      "bytes": 62801,
-      "sha256": "a41c1e180f6e553bdcededfa6c536e4cb53c8ae8fd59270718d5c076c36672a1"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-e7bb3c4c.jpg",
-      "bytes": 39792,
-      "sha256": "5a921c73468275e85c8a34ea6505e3bfe1cca60a6cf095dc9b57fa6f558e3082"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-e9f1ea81.jpg",
-      "bytes": 20571,
-      "sha256": "fad467e2d2c0a694fb92a7e1b091a34c009dded47815090adbc061faef13c4ac"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-ee19a7c8.jpg",
-      "bytes": 43057,
-      "sha256": "fbc3e3268cef0f186efe68ee0ac8d6702073dfeca3853b0c4193dcb85ee021d3"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-ef2b5ccf.jpg",
-      "bytes": 37848,
-      "sha256": "b7fe94b685098012a6ac98b6cc4cf09a7e4f16702468c2630f3ce2eeddbb2820"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-efbd5c4f.jpg",
-      "bytes": 55356,
-      "sha256": "4bb0d180a70299c299f821192b6743fe6530e721234cde112d57cd2c7b8b1695"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-f0380f92.jpg",
-      "bytes": 9077,
-      "sha256": "c889ddb8b114d1a8961100936a47a9d3fb16f7f92336f4c414ebe8bfe8d11d55"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-f1bbf300.jpg",
-      "bytes": 54436,
-      "sha256": "c42723fc738eb07465bff7e9eb3ab722a42918f523d5ed8372a46ca9e2e6bd2a"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-f46a1381.jpg",
-      "bytes": 36164,
-      "sha256": "7032a8023085eb925b3a320e5ac563f65be050b478f6181a5ef41207476fbed0"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-f4f94bb4.jpg",
-      "bytes": 57239,
-      "sha256": "2724bb03d2d67d44f93816e8329b6f46426308117f11e91f8914ab2d9100a22a"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-f77bd32d.jpg",
-      "bytes": 19177,
-      "sha256": "01ea46fc487b3aae9425fe763fdb4b7c1855b28ff6f77c865db06b5f73fdfa0a"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-f8e61174.jpg",
-      "bytes": 63173,
-      "sha256": "8e3c94319bc978e89f7d54812fec2b4bc8f291604d851b383e2df498de7a41dd"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-fb8039d9.jpg",
-      "bytes": 25959,
-      "sha256": "62a9a70219ed6cafe0e38a8254f4e3f88986d72d6c9a5c62e5529e096b503f0f"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-fb90e4e4.jpg",
-      "bytes": 43541,
-      "sha256": "a6d6989d4655d1e92c18c3d62e4ea6521ab2ce2e72d8fb17c3e85c885a425b40"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/PF-fc32213b.jpg",
-      "bytes": 41487,
-      "sha256": "054209c03005adb373f6854730b55afe9ee464254ed55326f3e9a6eadede1adc"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-images/blackfombo-fc30-footage.jpg",
-      "bytes": 75009,
-      "sha256": "ecba48189adb291bf7f0d094cba636c9393b2bc722b29e78cf00c60145f9dea9"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-media.js",
-      "bytes": 10830,
-      "sha256": "e4198ad4bf0b2c8b50aea62cbd7572105341cf50113e542af53be4f6e11abc27"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-merge-info.js",
-      "bytes": 525,
-      "sha256": "78e143b16817ab8fc8bc5cdf69e53526f4a5624992227ec07ca33c96ff54718e"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-organizer.js",
-      "bytes": 7628,
-      "sha256": "55a36727ce7764e11e5a89702be0fb301450d09ec28c621a2551225b140fdb18"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-verification.js",
-      "bytes": 1627,
-      "sha256": "d167a3c9050a9419e44acd883cacd49ee02ca3759bfaf481358d1294a74c0fdf"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/theme-assets/corner-bear.svg",
-      "bytes": 661,
-      "sha256": "942a722a2a027dec67c9c52b6a12440a5b195de4ab8cb7df4dc61f45c5372ec3"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/theme-assets/corner-friends.svg",
-      "bytes": 4260,
-      "sha256": "bb601793eb5d1ff489a0baaf2bbf3a9186a6d538cd847d7dcae0871dd4211ff1"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/支持文件/产品合并.py",
-      "bytes": 2704,
-      "sha256": "9795c6b662e991b49fbdf3094da5b5a895b0db12292224fab1f557cedb2fbe80"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/支持文件/产品筛选.py",
-      "bytes": 2061,
-      "sha256": "c2756091f8ef96f05065e013ee3bf0fc2fc5d1693b90b3e23d016eb2e215b4ac"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/支持文件/初版索引数据.js",
-      "bytes": 490397,
-      "sha256": "34f5fdcdc763e9d224aaf1c9d169a4617fd0d3cd70d91e674239de041ebae3d2"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/支持文件/商品核验.py",
-      "bytes": 692,
-      "sha256": "208233a812a05a7c0b524256b93e300fc2b9a79941d3869703b06c2258a0e187"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/支持文件/商品资源.py",
-      "bytes": 5984,
-      "sha256": "d5227ed7485c14986a9d057a5b9efbbf39714036833f86e59b2bd5e8cbe9dad4"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/支持文件/工作台服务.py",
-      "bytes": 6472,
-      "sha256": "4c9d2f514bfc228060738e311c904fd21a0120c76582c2fcefcd96426b72f1e1"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/支持文件/建立索引.py",
-      "bytes": 10337,
-      "sha256": "0c4d92b000f1ee5a80f06eb958cd144a14985570c183f9d57957b7f6d4d86d7d"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/支持文件/查询素材.py",
-      "bytes": 649,
-      "sha256": "125649d2e41a00f4c586eb902a6a8c8cb5d10f2fd191bb97da2213140ed4fe55"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/支持文件/素材外观复核.py",
-      "bytes": 1622,
-      "sha256": "11c373f1231374fc0a3dfb14d8cb43d35e473cd7152ada5e158ae291a8538f65"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/数据/产品合并.json",
-      "bytes": 2091,
-      "sha256": "e01e218455c5b8fd93e6767450981c4e0f6e4ed9158ee5fae6120b8d4bc5ec6d"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/数据/产品筛选.json",
-      "bytes": 74627,
-      "sha256": "b3ec3a305c1ee8c69066cc8d934a41a42e10b13eeef9e2cdc7f9c9dfb8ccbf8a"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/数据/商品图片链接补充.json",
-      "bytes": 22348,
-      "sha256": "271213bd2015a7793df8669d53ced8b9e8fa9d0236ea84460ae224279996d1c6"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/数据/商品库只读快照.json",
-      "bytes": 104549,
-      "sha256": "c8c35c501df209b32b76516bc4a715f1e548b6558742b2fc0fc6f0b4fe60b113"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/数据/商品核验.json",
-      "bytes": 176606,
-      "sha256": "737922fdeaaf71e3a5ade4f9ebb367828b55c3b33a2b3c09ad123f9cb46103e3"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/数据/手动补充.json",
-      "bytes": 6628,
-      "sha256": "7d2e2b33ad61ea891f6c5707dc3e28fa2e7496611ab7f86c12c0308b8f6f7741"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/数据/素材外观复核.json",
-      "bytes": 62002,
-      "sha256": "f4439ab712b9e682569f82ebaae3ab522a6c9cbb7272c04757c8099ea2219245"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/数据/素材索引.json",
-      "bytes": 801854,
-      "sha256": "5fa426de8352e589e7fcbd7a531c7b87ce00d66ad7204f67ea43c3e9efa05df2"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/更新索引.command",
-      "bytes": 147,
-      "sha256": "56d45d9ede5dd2e48b4b44d3c82aa781942997f98cd2cf2be416793b3c6603e4"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/相同产品信息合并_20261012/修改前备份/index.html",
-      "bytes": 23791,
-      "sha256": "f8b3a0e405d402ab09306aa54d53348a7b9f8b237038ea9930d1bd512337600d"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/相同产品信息合并_20261012/修改前备份/product-verification.js",
-      "bytes": 874,
-      "sha256": "dd06ee94be80486b962b1113dc4c8c1ba1171e5b9714998c694ad1162c218389"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/相同产品信息合并_20261012/修改前备份/产品合并.json",
-      "bytes": 1232,
-      "sha256": "e74db9c3ee544c34b7e94d1c456f1c8751aefe8dce4a8fe1cec7613012c85d2c"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/相同产品信息合并_20261012/修改前备份/商品核验.py",
-      "bytes": 474,
-      "sha256": "16cc6d00f792126ab2f6514c3afd38ae5222b18d581d98ca18d3fc88ad4f532e"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/相同产品信息合并_20261012/合并记录.json",
-      "bytes": 707,
-      "sha256": "b929be565f0f04c79fc0873fa891ba49b6f689d2ae989e97764ed26081dd4018"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/相同产品信息合并_20261012/相同产品合并结果.png",
-      "bytes": 194742,
-      "sha256": "b868d83fe78c88c5098eccfab5d0b736f2f10259a14b9d878168ce185e24944a"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/重复产品核查_20261010/合并结果.png",
-      "bytes": 119328,
-      "sha256": "f0f6805a1513c9ca3baea0a83a44bd02544eac23203e23e92bd9582d51eee380"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/重复产品核查_20261010/合并记录.md",
-      "bytes": 1342,
-      "sha256": "de04090fc30c913c0e30b1b175a651bf2b9f406e4f28097e18e582786d14c684"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/重复产品核查_20261010/工作台服务_合并前.py",
-      "bytes": 6390,
-      "sha256": "c82949149ed4624011da11b3ebd9e33785a74f345834b070f5bffde17bc0ea09"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-copy-link.js",
-      "bytes": 1915,
-      "sha256": "10e182d6522888c0e0cf2d8cb9efc29c2ccae6b0240750a9598934f1562d8f9b"
-    },
-    {
-      "path": "猫哥素材工作台_20261010/工作台/product-publish-copy.js",
-      "bytes": 13380,
-      "sha256": "71588eb46079618182560bc7d7b985a116313bbbaf9ab6c27e17f98f0f070a2a"
-    }
-  ]
+    "猫哥素材工作台_20261010/使用说明.md",
+    "猫哥素材工作台_20261010/启动工作台.command",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/product-page-checks.json",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/verified-product-pictures.json",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/修改前备份/index.html",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/修改前备份/产品筛选.json",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/修改前备份/商品图片链接补充.json",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/修改前备份/商品库只读快照.json",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/修改前备份/商品资源.py",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/修改前备份/工作台服务.py",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/商品库只读核对.json",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/尚未找到可确认链接的210条记录_待审批.csv",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/待核产品序号.json",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/待核实物对照_1.jpg",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/待核实物对照_2.jpg",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/待核实物对照_3.jpg",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/待核实物对照_4.jpg",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/待核实物对照_5.jpg",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-0.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-12.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-149.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-18.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-184.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-2.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-28.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-29.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-4.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-40.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-59.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-67.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-69.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-7.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-8.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-81.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-86.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/item-proof-9.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/支持截图/商品单链接绑定结果.png",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/核验前有效索引.json",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/核验结果.json",
+    "猫哥素材工作台_20261010/商品名称与链接核验_20261010/核验说明.md",
+    "猫哥素材工作台_20261010/工作台/bulk-views.js",
+    "猫哥素材工作台_20261010/工作台/catalog-data.js",
+    "猫哥素材工作台_20261010/工作台/corner-theme.css",
+    "猫哥素材工作台_20261010/工作台/index.html",
+    "猫哥素材工作台_20261010/工作台/product-delete.js",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-006522b5.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-017ae10c.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-01e073bf.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-03d5649d.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-0500d278.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-074a7c2c.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-090a062d.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-09d1bc1f.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-0a1325d3.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-0aa21789.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-0b23859b.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-0d2f4f08.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-0e5bc589.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-116dbeca.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-11f58ee1.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-12be1c07.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-13329387.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-13742fbd.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-14952c55.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-154c3c18.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-1661ec37.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-16a193d5.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-1c4ecabc.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-1c797905.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-1eabc888.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-1fbc332c.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-20863453.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-20d1193d.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-211c727e.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-2162145b.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-21f29d62.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-222a3e76.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-24538be1.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-2619aa4c.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-26e39f77.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-274fa2c5.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-27aa6576.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-2a836bf1.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-2df00830.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-2f3861c6.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-2f7b5dae.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-2fd288c2.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-2ffdee1d.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-30b8585a.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-323a56d9.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-33ab2750.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-35f251bb.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-36167938.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-371cb30c.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-373c1161.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-39366ae5.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-39cfefe0.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-3cef9db8.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-3e5274b2.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-3fe67b8c.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-40a33e59.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-40a975d6.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-40f6e104.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-41fc7699.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-428529dd.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-42f1c532.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-43b05af2.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-463a4844.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-4649776d.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-487c00b6.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-48b67227.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-4a08c947.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-4a729b14.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-4ac15737.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-4b223a3a.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-4bdc7db9.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-4bea657d.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-4c0c4386.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-4d474005.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-4d608dad.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-4e323367.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-4fbff7c1.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-4fdae088.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-5064ca7a.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-52b7b651.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-53b56a40.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-55365c9a.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-5678b95f.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-5687d029.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-5a20fb8b.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-5ac5fd9a.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-5af28f8d.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-5b28a176.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-5b7ab356.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-5b8264a1.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-5dcf5d1c.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-5e2b751f.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-5e60735e.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-5fc79af6.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-60b0c1f6.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-60ed9db4.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-61b3be72.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-61d18e9d.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-61f5fde7.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-630d3f91.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-64ae2386.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-67f94b4e.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-6824ebd4.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-6830667b.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-68432c98.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-68fce2aa.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-695ad2b7.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-69e9ad42.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-6a1575af.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-6a507cca.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-6a975252.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-6beaf8db.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-6fa5be9b.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-70285d6f.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-7142cd67.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-7584460b.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-77a0bb8f.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-781f70b2.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-79491cd9.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-7a80ce41.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-7a922105.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-7b854ed9.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-7da42cfa.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-7ec21964.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-81586ad1.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-83139944.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-83157864.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-83207fc0.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-83401d15.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-8638af41.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-869b1645.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-86f3787e.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-88cff445.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-89eda0cb.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-8b64baf7.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-8bf6105a.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-8ff8b0ab.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-906e42f6.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-9232fa58.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-95c961fb.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-96a62173.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-973bf62f.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-97e7f189.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-98c55e65.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-99ab41d0.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-9ac2caad.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-9cf12694.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-9e0f9611.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-9e49f588.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-9f42ee43.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-9f750972.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-9f7f2be0.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-a04d7254.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-a64d08ef.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-a9fe4e79.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-af4f2e51.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-b2f623c3.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-b3361341.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-b45eb5c2.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-b47c789c.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-b550c255.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-b6df501f.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-b7033846.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-b8a16eec.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-b974b3c5.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-bee2abe8.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-c08f0420.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-c1e3b012.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-c2d0a030.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-c343d01f.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-c669b30e.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-c90e644c.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-ccc99411.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-cdf1af67.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-ce757d05.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-d0103a21.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-d0213ccc.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-d0db74cd.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-d284b04e.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-d384d12e.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-d43b70e1.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-d4d6d99b.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-d7b54036.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-d9e42496.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-da5f6d8d.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-dbe7356b.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-dca730e6.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-dd6815af.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-dd88a115.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-de4791ca.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-df4c6916.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-e36f0ad9.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-e38a6cf5.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-e4257db8.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-e4ae2087.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-e5bf766a.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-e76ff06e.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-e7bb3c4c.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-e9f1ea81.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-ee19a7c8.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-ef2b5ccf.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-efbd5c4f.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-f0380f92.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-f1bbf300.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-f46a1381.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-f4f94bb4.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-f77bd32d.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-f8e61174.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-fb8039d9.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-fb90e4e4.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/PF-fc32213b.jpg",
+    "猫哥素材工作台_20261010/工作台/product-images/blackfombo-fc30-footage.jpg",
+    "猫哥素材工作台_20261010/工作台/product-media.js",
+    "猫哥素材工作台_20261010/工作台/product-merge-info.js",
+    "猫哥素材工作台_20261010/工作台/product-organizer.js",
+    "猫哥素材工作台_20261010/工作台/product-verification.js",
+    "猫哥素材工作台_20261010/工作台/theme-assets/corner-bear.svg",
+    "猫哥素材工作台_20261010/工作台/theme-assets/corner-friends.svg",
+    "猫哥素材工作台_20261010/支持文件/产品合并.py",
+    "猫哥素材工作台_20261010/支持文件/产品筛选.py",
+    "猫哥素材工作台_20261010/支持文件/初版索引数据.js",
+    "猫哥素材工作台_20261010/支持文件/商品核验.py",
+    "猫哥素材工作台_20261010/支持文件/商品资源.py",
+    "猫哥素材工作台_20261010/支持文件/工作台服务.py",
+    "猫哥素材工作台_20261010/支持文件/建立索引.py",
+    "猫哥素材工作台_20261010/支持文件/查询素材.py",
+    "猫哥素材工作台_20261010/支持文件/素材外观复核.py",
+    "猫哥素材工作台_20261010/数据/产品合并.json",
+    "猫哥素材工作台_20261010/数据/产品筛选.json",
+    "猫哥素材工作台_20261010/数据/商品图片链接补充.json",
+    "猫哥素材工作台_20261010/数据/商品库只读快照.json",
+    "猫哥素材工作台_20261010/数据/商品核验.json",
+    "猫哥素材工作台_20261010/数据/手动补充.json",
+    "猫哥素材工作台_20261010/数据/素材外观复核.json",
+    "猫哥素材工作台_20261010/数据/素材索引.json",
+    "猫哥素材工作台_20261010/更新索引.command",
+    "猫哥素材工作台_20261010/相同产品信息合并_20261012/修改前备份/index.html",
+    "猫哥素材工作台_20261010/相同产品信息合并_20261012/修改前备份/product-verification.js",
+    "猫哥素材工作台_20261010/相同产品信息合并_20261012/修改前备份/产品合并.json",
+    "猫哥素材工作台_20261010/相同产品信息合并_20261012/修改前备份/商品核验.py",
+    "猫哥素材工作台_20261010/相同产品信息合并_20261012/合并记录.json",
+    "猫哥素材工作台_20261010/相同产品信息合并_20261012/相同产品合并结果.png",
+    "猫哥素材工作台_20261010/重复产品核查_20261010/合并结果.png",
+    "猫哥素材工作台_20261010/重复产品核查_20261010/合并记录.md",
+    "猫哥素材工作台_20261010/重复产品核查_20261010/工作台服务_合并前.py",
+    "public/bulk-views.js",
+    "public/catalog-data.js",
+    "public/cloud-static.js",
+    "public/corner-bear.svg",
+    "public/corner-friends.svg",
+    "public/corner-theme.css",
+    "public/index.html",
+    "public/product-delete.js",
+    "public/product-media.js",
+    "public/product-merge-info.js",
+    "public/product-verification.js",
+    "public/product-images/PF-1c797905.jpg",
+    "public/product-images/PF-b3361341.jpg",
+    "public/product-images/PF-9232fa58.jpg",
+    "public/product-images/PF-c343d01f.jpg",
+    "public/product-images/PF-e38a6cf5.jpg",
+    "public/product-images/PF-83401d15.jpg",
+    "public/product-images/PF-116dbeca.jpg",
+    "public/product-images/PF-1661ec37.jpg",
+    "public/product-images/PF-d7b54036.jpg",
+    "public/product-images/PF-8638af41.jpg",
+    "public/product-images/PF-4bdc7db9.jpg",
+    "public/product-images/PF-2162145b.jpg",
+    "public/product-images/PF-40f6e104.jpg",
+    "public/product-images/PF-d4d6d99b.jpg",
+    "public/product-images/PF-c1e3b012.jpg",
+    "public/product-images/PF-40a975d6.jpg",
+    "public/product-images/PF-006522b5.jpg",
+    "public/product-images/PF-4bea657d.jpg",
+    "public/product-images/PF-cdf1af67.jpg",
+    "public/product-images/PF-2df00830.jpg",
+    "public/product-images/PF-463a4844.jpg",
+    "public/product-images/PF-36167938.jpg",
+    "public/product-images/PF-d43b70e1.jpg",
+    "public/product-images/PF-d384d12e.jpg",
+    "public/product-images/PF-39cfefe0.jpg",
+    "public/product-images/blackfombo-fc30-footage.jpg",
+    "public/product-images/PF-14952c55.jpg",
+    "public/product-images/PF-d0213ccc.jpg",
+    "public/product-images/PF-0aa21789.jpg",
+    "public/product-images/PF-9cf12694.jpg",
+    "public/product-images/PF-e36f0ad9.jpg",
+    "public/product-images/PF-95c961fb.jpg",
+    "public/product-images/PF-4b223a3a.jpg",
+    "public/product-images/PF-ccc99411.jpg",
+    "public/product-images/PF-c669b30e.jpg",
+    "public/product-images/PF-a04d7254.jpg",
+    "public/product-images/PF-40a33e59.jpg",
+    "public/product-images/PF-16a193d5.jpg",
+    "public/product-images/PF-2f3861c6.jpg",
+    "public/product-images/PF-5b8264a1.jpg",
+    "public/product-images/PF-4a08c947.jpg",
+    "public/product-images/PF-7a80ce41.jpg",
+    "public/product-images/PF-43b05af2.jpg",
+    "public/product-images/PF-61b3be72.jpg",
+    "public/product-images/PF-e4257db8.jpg",
+    "public/product-images/PF-39366ae5.jpg",
+    "public/product-images/PF-97e7f189.jpg",
+    "public/product-images/PF-30b8585a.jpg",
+    "public/product-images/PF-428529dd.jpg",
+    "public/product-images/PF-d284b04e.jpg",
+    "public/product-images/PF-af4f2e51.jpg",
+    "public/product-images/PF-2f7b5dae.jpg",
+    "public/product-images/PF-0500d278.jpg",
+    "public/product-images/PF-26e39f77.jpg",
+    "public/product-images/PF-323a56d9.jpg",
+    "public/product-images/PF-68432c98.jpg",
+    "public/product-images/PF-20863453.jpg",
+    "public/product-images/PF-68fce2aa.jpg",
+    "public/product-images/PF-d0db74cd.jpg",
+    "public/product-images/PF-f4f94bb4.jpg",
+    "public/product-images/PF-dd6815af.jpg",
+    "public/product-images/PF-2ffdee1d.jpg",
+    "public/product-images/PF-7b854ed9.jpg",
+    "public/product-images/PF-4e323367.jpg",
+    "public/product-images/PF-154c3c18.jpg",
+    "public/product-images/PF-bee2abe8.jpg",
+    "public/product-images/PF-906e42f6.jpg",
+    "public/product-images/PF-5687d029.jpg",
+    "public/product-images/PF-60b0c1f6.jpg",
+    "public/product-images/PF-5b7ab356.jpg",
+    "public/product-images/PF-2fd288c2.jpg",
+    "public/product-images/PF-01e073bf.jpg",
+    "public/product-images/PF-33ab2750.jpg",
+    "public/product-images/PF-5dcf5d1c.jpg",
+    "public/product-images/PF-222a3e76.jpg",
+    "public/product-images/PF-2a836bf1.jpg",
+    "public/product-images/PF-9f7f2be0.jpg",
+    "public/product-images/PF-5678b95f.jpg",
+    "public/product-images/PF-a64d08ef.jpg",
+    "public/product-images/PF-e5bf766a.jpg",
+    "public/product-images/PF-83157864.jpg",
+    "public/product-images/PF-9e0f9611.jpg",
+    "public/product-images/PF-4d474005.jpg",
+    "public/product-images/PF-24538be1.jpg",
+    "public/product-images/PF-83139944.jpg",
+    "public/product-images/PF-090a062d.jpg",
+    "public/product-images/PF-695ad2b7.jpg",
+    "public/product-images/PF-074a7c2c.jpg",
+    "public/product-images/PF-781f70b2.jpg",
+    "public/product-images/PF-da5f6d8d.jpg",
+    "public/product-images/PF-b974b3c5.jpg",
+    "public/product-images/PF-df4c6916.jpg",
+    "public/product-images/PF-274fa2c5.jpg",
+    "public/product-images/PF-ce757d05.jpg",
+    "public/product-images/PF-fb8039d9.jpg",
+    "public/product-images/PF-4fdae088.jpg",
+    "public/product-images/PF-e9f1ea81.jpg",
+    "public/product-images/PF-53b56a40.jpg",
+    "public/product-images/PF-79491cd9.jpg",
+    "public/product-images/PF-09d1bc1f.jpg",
+    "public/product-images/PF-67f94b4e.jpg",
+    "public/product-images/PF-630d3f91.jpg",
+    "public/product-images/PF-fb90e4e4.jpg",
+    "public/product-images/PF-6beaf8db.jpg",
+    "public/product-images/PF-e76ff06e.jpg",
+    "public/product-images/PF-99ab41d0.jpg",
+    "public/product-images/PF-f1bbf300.jpg",
+    "public/product-images/PF-55365c9a.jpg",
+    "public/product-images/PF-e7bb3c4c.jpg",
+    "public/product-images/PF-89eda0cb.jpg",
+    "public/product-images/PF-b7033846.jpg",
+    "public/product-images/PF-7da42cfa.jpg",
+    "public/product-images/PF-0e5bc589.jpg",
+    "public/product-images/PF-017ae10c.jpg",
+    "public/product-images/PF-13329387.jpg",
+    "public/product-images/PF-9e49f588.jpg",
+    "public/product-images/PF-8b64baf7.jpg",
+    "public/product-images/PF-41fc7699.jpg",
+    "public/product-images/PF-9ac2caad.jpg",
+    "public/product-images/PF-1eabc888.jpg",
+    "public/product-images/PF-973bf62f.jpg",
+    "public/product-images/PF-4fbff7c1.jpg",
+    "public/product-images/PF-7ec21964.jpg",
+    "public/product-images/PF-5fc79af6.jpg",
+    "public/product-images/PF-b47c789c.jpg",
+    "public/product-images/PF-98c55e65.jpg",
+    "public/product-images/PF-8ff8b0ab.jpg",
+    "public/product-images/PF-6a975252.jpg",
+    "public/product-images/PF-4d608dad.jpg",
+    "public/product-images/PF-3e5274b2.jpg",
+    "public/product-images/PF-6830667b.jpg",
+    "public/product-images/PF-61d18e9d.jpg",
+    "public/product-images/PF-0b23859b.jpg",
+    "public/product-images/PF-5064ca7a.jpg",
+    "public/product-images/PF-371cb30c.jpg",
+    "public/product-images/PF-27aa6576.jpg",
+    "public/product-images/PF-a9fe4e79.jpg",
+    "public/product-images/PF-dbe7356b.jpg",
+    "public/product-images/PF-83207fc0.jpg",
+    "public/product-images/PF-efbd5c4f.jpg",
+    "public/product-images/PF-64ae2386.jpg",
+    "public/product-images/PF-d9e42496.jpg",
+    "public/product-images/PF-7584460b.jpg",
+    "public/product-images/PF-4649776d.jpg",
+    "public/product-images/PF-6a507cca.jpg",
+    "public/product-images/PF-4ac15737.jpg",
+    "public/product-images/PF-b550c255.jpg",
+    "public/product-images/PF-9f750972.jpg",
+    "public/product-images/PF-f46a1381.jpg",
+    "public/product-images/PF-2619aa4c.jpg",
+    "public/product-images/PF-f0380f92.jpg",
+    "public/product-images/PF-20d1193d.jpg",
+    "public/product-images/PF-42f1c532.jpg",
+    "public/product-images/PF-48b67227.jpg",
+    "public/product-images/PF-86f3787e.jpg",
+    "public/product-images/PF-5af28f8d.jpg",
+    "public/product-images/PF-f77bd32d.jpg",
+    "public/product-images/PF-de4791ca.jpg",
+    "public/product-images/PF-c90e644c.jpg",
+    "public/product-images/PF-ee19a7c8.jpg",
+    "public/product-images/PF-d0103a21.jpg",
+    "public/product-images/PF-21f29d62.jpg",
+    "public/product-images/PF-0a1325d3.jpg",
+    "public/product-images/PF-ef2b5ccf.jpg",
+    "public/product-images/PF-c08f0420.jpg",
+    "public/product-images/PF-60ed9db4.jpg",
+    "public/product-images/PF-dca730e6.jpg",
+    "public/product-images/PF-f8e61174.jpg",
+    "public/product-images/PF-3fe67b8c.jpg",
+    "public/product-images/PF-211c727e.jpg",
+    "public/product-images/PF-03d5649d.jpg",
+    "public/product-images/PF-8bf6105a.jpg",
+    "public/product-images/PF-7a922105.jpg",
+    "public/product-images/PF-1c4ecabc.jpg",
+    "public/product-images/PF-5a20fb8b.jpg",
+    "public/product-images/PF-77a0bb8f.jpg",
+    "public/product-images/PF-12be1c07.jpg",
+    "public/product-images/PF-1fbc332c.jpg",
+    "public/product-images/PF-88cff445.jpg",
+    "public/product-images/PF-6824ebd4.jpg",
+    "public/product-images/PF-b6df501f.jpg",
+    "public/product-images/PF-7142cd67.jpg",
+    "public/product-images/PF-373c1161.jpg",
+    "public/product-images/PF-35f251bb.jpg",
+    "public/product-images/PF-dd88a115.jpg",
+    "public/product-images/PF-70285d6f.jpg",
+    "public/product-images/PF-96a62173.jpg",
+    "public/product-images/PF-11f58ee1.jpg",
+    "public/product-images/PF-6fa5be9b.jpg",
+    "public/product-images/PF-5e2b751f.jpg",
+    "public/product-images/PF-81586ad1.jpg",
+    "public/product-images/PF-b8a16eec.jpg",
+    "public/product-images/PF-13742fbd.jpg",
+    "public/product-images/PF-487c00b6.jpg",
+    "public/product-images/PF-b2f623c3.jpg",
+    "public/product-images/PF-69e9ad42.jpg",
+    "public/product-images/PF-fc32213b.jpg",
+    "public/product-images/PF-9f42ee43.jpg",
+    "public/product-images/PF-869b1645.jpg",
+    "public/product-images/PF-3cef9db8.jpg",
+    "public/product-images/PF-4c0c4386.jpg",
+    "public/product-images/PF-b45eb5c2.jpg",
+    "public/product-images/PF-4a729b14.jpg",
+    "public/product-images/PF-c2d0a030.jpg",
+    "public/product-images/PF-6a1575af.jpg",
+    "public/product-images/PF-e4ae2087.jpg",
+    "public/product-images/PF-61f5fde7.jpg",
+    "public/product-images/PF-5e60735e.jpg",
+    "public/product-images/PF-5b28a176.jpg",
+    "public/product-images/PF-0d2f4f08.jpg",
+    "public/product-images/PF-5ac5fd9a.jpg",
+    "public/product-images/PF-52b7b651.jpg",
+    "public/product-organizer.js",
+    "public/_headers",
+    "functions/api/organizer.js",
+    "public/product-copy-link.js",
+    "猫哥素材工作台_20261010/工作台/product-copy-link.js",
+    "public/product-publish-copy.js",
+    "猫哥素材工作台_20261010/工作台/product-publish-copy.js",
+    "functions/api/publish-copy.js"
+  ],
+  "catalog_sha256": "4dfe016c97c3d4914a9a005501277f5127b21e7fc65fbdf8262455e6496beac6",
+  "note": "两款磁吸电池分开归档；保留夏新10月12日待同步补充"
 }
